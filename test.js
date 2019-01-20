@@ -1,0 +1,5 @@
+// Some publically available script that doesn't really do anything...
+(function() {
+  var one = "I am a great string of text!";
+  console.log("What did you say? ", one)
+})();
