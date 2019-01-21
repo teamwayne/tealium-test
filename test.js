@@ -2,4 +2,7 @@
 (function() {
   var one = "I am a great string of text!";
   console.log("What did you say? ", one)
+  function test() {
+    var two = "hello";
+  }
 })();
